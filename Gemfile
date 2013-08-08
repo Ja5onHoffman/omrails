@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 ruby '1.9.3'
 gem 'rails', '3.2.11'
 gem 'jquery-rails'
+gem 'devise'
+gem 'simple_form'
 gem 'bootstrap-sass', '~> 2.3.2.1'
 
 # Bundle edge Rails instead:
